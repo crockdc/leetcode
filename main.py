@@ -1,4 +1,4 @@
-import * from 136_Single_Number.py
+from Single_Number import *
 
 
 if __name__ == '__main__':
